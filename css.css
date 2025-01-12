@@ -1,0 +1,13 @@
+.container{
+    display: none;
+    flex-direction: column;
+    gap: 16px;
+    padding: 10px;
+    background-color: gray;
+    width:fit-content;
+}
+
+#checkbox:checked +.container{
+    display: flex;
+}
+
