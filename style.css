@@ -303,6 +303,10 @@ body{
     color: rgb(33, 184, 33);
 
 }
+.ser p b{
+    background-color: black;
+    color: white;
+}
 
 
 
